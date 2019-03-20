@@ -1,2 +1,2 @@
 # Flagpole
-A neural network that recognises flags of different countries
+A python program that recognises flags of different countries
